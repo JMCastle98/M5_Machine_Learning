@@ -13,14 +13,14 @@ Y somos estudiantes que formamos parte del curso de Data Analysis que ofrece BED
 ### Contenido
 #### Postworks Módulo 5 "Machine Learning"
 
- - [Postwork Sesión 1: Introducción a Machine Learning](Postwork01/Postwork01.ipynb) 
- - [Postwork Sesión 2: Separación, validación y evaluación para algoritmos de ML](Postwork02/Postwork02.ipynb) 
- - [Postwork Sesión 3: Algoritmos no supervisados](Postwork03/Postwork03.ipynb)
- - [Postwork Sesión 4: Problemas de regresión](Postwork04/Postwork04.ipynb) 
- - [Postwork Sesión 5: Árboles de decisión](Postwork05/Postwork05.ipynb) 
- - [Postwork Sesión 6: Clasificación y Redes Neuronales Artificiales](Postwork06/Postwork06.ipynb) 
- - [Postwork Sesión 7: Arena de Clasificadores](Postwork07/Postwork07.ipynb) 
- - [Postwork Sesión 8: Fundamentos de procesamiento de imágenes](Postwork08/Postwork08.ipynb)
+ - [Postwork Sesión 1: Introducción a Machine Learning](Postwork01/) 
+ - [Postwork Sesión 2: Separación, validación y evaluación para algoritmos de ML](Postwork02/) 
+ - [Postwork Sesión 3: Algoritmos no supervisados](Postwork03/)
+ - [Postwork Sesión 4: Problemas de regresión](Postwork04/) 
+ - [Postwork Sesión 5: Árboles de decisión](Postwork05/) 
+ - [Postwork Sesión 6: Clasificación y Redes Neuronales Artificiales](Postwork06/) 
+ - [Postwork Sesión 7: Arena de Clasificadores](Postwork07/) 
+ - [Postwork Sesión 8: Fundamentos de procesamiento de imágenes](Postwork08/)
  - [Proyecto Final: Prediccón en partidas competitivas de League of Legends](ProyectoFinal/)
 
 El entregable final del Módulo 4 que recopila todo nuestro trabajo se encuentra aquí:
