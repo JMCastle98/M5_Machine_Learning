@@ -15,16 +15,16 @@ Para el postwork del día de hoy, necesito que hagas un módulo de Python 3 llam
 
 ## Tu librería de MLUtilities debe contener lo siguiente:
 
-Funciones de separación de entrenamiento, validación y prueba.
-Funciones de separación de datasets con K-Fold (el usuario debe poner el K, si K = 1 debe generar un Leave-One-Out Cross Validation).
-Funciones de evaluación con matriz de confusión.
-Funciones de obtención de Precisión (Accuracy), Sensibilidad y Especificidad.
+  - Funciones de separación de entrenamiento, validación y prueba.
+  - Funciones de separación de datasets con K-Fold (el usuario debe poner el K, si K = 1 debe generar un Leave-One-Out Cross Validation).
+  - Funciones de evaluación con matriz de confusión.
+  - Funciones de obtención de Precisión (Accuracy), Sensibilidad y Especificidad.
 
-- *Funciones que comparen dos clasificadores:*
-Obtengas precisión, sensibilidad y especificidad del clasificador 1.
-Obtengas precisión, sensibilidad y especificidad del clasificador 2.
-Digas cual es mejor en términos de precisión.
-Digas cual es mejor en términos de sensibilidad.
-Digas cual es mejor en términos de especificidad.
+- **Funciones que comparen dos clasificadores:**
+  - Obtengas precisión, sensibilidad y especificidad del clasificador 1 
+  - Obtengas precisión, sensibilidad y especificidad del clasificador 2
+  - Digas cual es mejor en términos de precisión.
+  - Digas cual es mejor en términos de sensibilidad.
+  - Digas cual es mejor en términos de especificidad.
 
-- *Funciones de evaluación multiclase.*
+- **Funciones de evaluación multiclase.**
